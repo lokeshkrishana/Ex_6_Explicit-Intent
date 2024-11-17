@@ -13,6 +13,8 @@ Developed by:Lokesh K
 Registeration Number : 212222040087
 */
 ```
+
+
 ## Main activity.java:
 ```
 package com.example.ex_6final;
@@ -52,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }});}}
 ```
+
+
 ## second activity.java
 ```
 package com.example.ex_6final;
@@ -74,6 +78,8 @@ public class SecondActivity extends AppCompatActivity {
     }
 }
 ```
+
+
 ## acticity main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -129,6 +135,8 @@ public class SecondActivity extends AppCompatActivity {
         app:layout_constraintVertical_bias="0.622" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+
 ## second activity.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -173,6 +181,8 @@ public class SecondActivity extends AppCompatActivity {
         app:layout_constraintVertical_bias="0.45" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+
 ## Android  manifest:
 ```
 <?xml version="1.0" encoding="utf-8"?>
