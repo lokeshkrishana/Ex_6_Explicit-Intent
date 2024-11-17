@@ -5,11 +5,6 @@ To create a two screens , first screen will take one number input from user. Aft
 
 ## EQUIPMENTS REQUIRED:
 Latest Version Android Studio
-
-## ALGORITHM:
-
-
-
 ## PROGRAM:
 ```
 /*
@@ -18,7 +13,6 @@ Developed by:Lokesh K
 Registeration Number : 212222040087
 */
 ```
-
 ## Main activity.java:
 ```
 package com.example.ex_6final;
